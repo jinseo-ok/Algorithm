@@ -1,3 +1,6 @@
+# -*- coding: utf-8 -*-
+# 2179_미로 탐색
+
 import sys
 N, M = map(int, sys.stdin.readline().split())
 mat =[]
