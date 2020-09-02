@@ -17,7 +17,7 @@
 
 ## W01 - Chapter01. 문자열 조작
 |문제번호|제목|채점|해설|
-|---|---|---|---|---|
+|---|---|---|---|
 |125|Valid Palindrome|O|https://velog.io/@jinseock95/125.Valid-Palindrome|
 |344|Reverse String|O||
 |937|Reorder Data in Log Files|O|https://velog.io/@jinseock95/937.Reorder-Data-in-Log-Files|
@@ -28,7 +28,7 @@
 
 ## W02 - Chapter02. 배열
 |문제번호|제목|채점|해설|
-|---|---|---|---|---|
+|---|---|---|---|
 |1|Two Sum|O|https://velog.io/@jinseock95/31.Two-Sum|
 |15|3Sum|O||
 |42|Trapping Rain Water|O||
