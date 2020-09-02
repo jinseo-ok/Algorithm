@@ -26,7 +26,7 @@
 |49|Group Anagrams|O|https://velog.io/@jinseock95/Algo42.GroupAnagrams|
 
 
-## W02 - Chapter02. 배열
+## W01 - Chapter02. 배열
 |문제번호|제목|채점|해설|
 |---|---|---|---|
 |1|Two Sum|O|https://velog.io/@jinseock95/31.Two-Sum|
@@ -35,3 +35,36 @@
 |121|Best Time to Buy and Sell Stock|O|https://velog.io/@jinseock95/121.Best-Time-to-Buy-and-Sell-Stock|
 |238|Product of Array Except Self|O|https://velog.io/@jinseock95/238.Product-of-Array-Except-Self|
 |561|Array Partition I|O||
+
+
+## W02 - Chapter03. 스택&큐
+|문제번호|제목|채점|해설|
+|---|---|---|---|
+|20|Valid Parentheses|O|https://velog.io/@jinseock95/20.Valid-Parentheses|
+|225|Implement Stack using Queues|O||
+|232|Implement Queue using Stacks|O||
+|316|Remove Duplicate Letters|X||
+|739|Daily Temperatures|O|https://velog.io/@jinseock95/739.Daily-Temperatures|
+|622| Design Circular Queue|O||
+
+
+## W02 - Chapter04. 데크&우선순위 큐
+|문제번호|제목|채점|해설|
+|---|---|---|---|
+|23|Merge k Sorted Lists|O|https://velog.io/@jinseock95/23.Merge-k-Sorted-Lists|
+|641|Design Circular Deque|O||
+
+
+## W03 - Chapter05. 그래프
+|문제번호|제목|채점|해설|
+|---|---|---|---|
+|17|Letter Combinations of a Phone Number|O|https://velog.io/@jinseock95/317.Letter-Combinations-of-a-Phone-Number|
+|39|Combination Sum|O||
+|46|Permutations|O||
+|77|Combinations|O||
+|78|Subsets|O||
+|200|Number of Islands|O|https://velog.io/@jinseock95/200.Number-of-Islands|
+|332|Reconstruct Itinerary|O|https://velog.io/@jinseock95/332.Reconstruct-Itinerary|
+|207|Course Schedule|X||
+
+
