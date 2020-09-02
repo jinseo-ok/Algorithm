@@ -30,7 +30,7 @@
 |문제번호|제목|채점|해설|
 |---|---|---|---|
 |1|Two Sum|O|https://velog.io/@jinseock95/31.Two-Sum|
-|15|3Sum|O||https://velog.io/@jinseock95/15.3Sum|
+|15|3Sum|O|https://velog.io/@jinseock95/15.3Sum|
 |42|Trapping Rain Water|X||
 |121|Best Time to Buy and Sell Stock|O|https://velog.io/@jinseock95/121.Best-Time-to-Buy-and-Sell-Stock|
 |238|Product of Array Except Self|O|https://velog.io/@jinseock95/238.Product-of-Array-Except-Self|
