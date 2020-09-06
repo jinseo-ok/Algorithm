@@ -7,4 +7,13 @@ coin = []
 for _ in range(n):
     coin.append(int(sys.stdin.readline()))
 
-dp = [[0] * n]
+dp = [0 for _ in range(k+1)]
+
+dp[0] = 1
+
+for c in coin:
+    for i in range(c, k+1):
+        dp[i] += dp[i-c]
+        print(c, dp)
+
+print(dp[k])
