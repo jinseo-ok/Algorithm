@@ -1,4 +1,4 @@
-import sys
+timport sys
 
 class Solution:
     def __init__(self, strs):
