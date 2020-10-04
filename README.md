@@ -60,7 +60,7 @@
 |---|---|---|---|
 |17|Letter Combinations of a Phone Number|O|https://velog.io/@jinseock95/317.Letter-Combinations-of-a-Phone-Number|
 |39|Combination Sum|O||
-|46|Permutations|O||
+|46|Permutations|O|https://velog.io/@jinseock95/346.Permutations|
 |77|Combinations|O|https://velog.io/@jinseock95/378.Subsets|
 |78|Subsets|O||
 |200|Number of Islands|O|https://velog.io/@jinseock95/200.Number-of-Islands|
